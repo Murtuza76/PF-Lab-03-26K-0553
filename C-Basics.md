@@ -27,7 +27,7 @@
 ## 3. Input/Output Functions
 | Input/Output Functions | Description |
 | ---------------------- | ----------- |
-| **`scanf()**` | Reads input given by the user, using the format specifiers to know what kind of data to expect and stores the value accordingly |
+| `scanf()` | Reads input given by the user, using the format specifiers to know what kind of data to expect and stores the value accordingly |
 | 'printf()' | Prints the formatted output to the screen |
 | 'getchar()' | Reads a single character from given input |
 | 'putchar()' | Outputs that single character from the given input |
