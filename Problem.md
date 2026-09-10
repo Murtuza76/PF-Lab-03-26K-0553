@@ -1,7 +1,6 @@
 # Display student information using different data types.
 
-`
-BEGIN
+`BEGIN
     // Define variables as different data types
     DEFINE INTEGER rollnumber = 0553
     DEFINE STRING name = "Albert"
@@ -14,8 +13,8 @@ BEGIN
     PRINT "Name:", name
     PRINT "Grade:", grade
     PRINT "GPA:", gpa
-END
-`
+END`
+
 
 # Read and display a character using getchar() and putchar().
 o Display a floating-point value using different precision settings.
