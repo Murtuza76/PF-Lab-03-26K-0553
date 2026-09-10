@@ -13,7 +13,7 @@ This repository contains the source code, solution files and the source code for
 - Understanding the basic structure of C language
 
 "Testing Phase"
-'run c program'
+`run c program`
 
 -[x]Completed the GitHub repository, finished all the tasks
 -[x]Compiled all the give C language tasks.
