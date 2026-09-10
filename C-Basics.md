@@ -28,8 +28,8 @@
 | Input/Output Functions | Description |
 | ---------------------- | ----------- |
 | `scanf()` | Reads input given by the user, using the format specifiers to know what kind of data to expect and stores the value accordingly |
-| 'printf()' | Prints the formatted output to the screen |
-| 'getchar()' | Reads a single character from given input |
-| 'putchar()' | Outputs that single character from the given input |
-| 'fgets()' | Reads a line of input string of text by the user until a new line is found. |
-| 'puts()' | Outputs a string and automatically creates a new line |
+| `printf()` | Prints the formatted output to the screen |
+| `getchar()` | Reads a single character from given input |
+| `putchar()` | Outputs that single character from the given input |
+| `fgets()` | Reads a line of input string of text by the user until a new line is found. |
+| `puts()` | Outputs a string and automatically creates a new line |
