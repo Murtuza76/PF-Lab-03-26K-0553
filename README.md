@@ -12,9 +12,9 @@ This repository contains the source code, solution files and the source code for
 - Printing hello world in C language
 - Understanding the basic structure of C language
 
->"Testing Phase"
+>Testing Phase
 >
 `run c program`
 
--[x]Completed the GitHub repository, finished all the tasks
--[x]Compiled all the give C language tasks.
+- [x] Completed the GitHub repository, finished all the tasks
+- [x] Compiled all the give C language tasks.
