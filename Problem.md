@@ -15,7 +15,7 @@
     PRINT "Grade:", grade
     PRINT "GPA:", gpa
 END
-
+```
 
 # Read and display a character using getchar() and putchar().
 o Display a floating-point value using different precision settings.
