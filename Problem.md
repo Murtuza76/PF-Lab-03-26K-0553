@@ -1,6 +1,6 @@
 # Display student information using different data types.
 
-``
+`
 BEGIN
     // Define variables as different data types
     DEFINE INTEGER rollnumber = 0553
@@ -15,6 +15,7 @@ BEGIN
     PRINT "Grade:", grade
     PRINT "GPA:", gpa
 END
+`
 
 # Read and display a character using getchar() and putchar().
 o Display a floating-point value using different precision settings.
