@@ -33,3 +33,28 @@
 | `putchar()` | Outputs that single character from the given input |
 | `fgets()` | Reads a line of input string of text by the user until a new line is found. |
 | `puts()` | Outputs a string and automatically creates a new line |
+
+## 4. Escape Sequences
+
+| Escape Sequence | Meaning | Example |
+|------------------|---------|---------|
+| `\n` | Newline — moves cursor to the next line | `printf("Hello\nWorld");` |
+| `\t` | Horizontal tab — inserts a tab space | `printf("Name:\tAli");` |
+| `\\` | Backslash — prints a backslash | `printf("C:\\Users");` |
+| `\"` | Double quote — prints a `"` character | `printf("She said \"Hi\"");` |
+| `\'` | Single quote — prints a `'` character | `printf("It\'s okay");` |
+| `\0` | Null character — marks the end of a string | Used internally to terminate strings |
+| `\r` | Carriage return — moves cursor to the beginning of the current line | `printf("Loading...\r");` |
+
+## 5. Precision for Floating-Point Output
+
+Precision controls how many digits appear after the decimal point, when printing from the the function 'printf'
+
+**Syntax:** `%.Nf` — where `N` is the number of decimal places to display.
+
+**Examples:**
+```
+printf("%.2f", 3.14159);   // Output: 3.14   (2 digits after decimal)
+printf("%.4f", 3.14159);   // Output: 3.1416 (4 digits after decimal, rounded)
+printf("%.0f", 3.14159);   // Output: 3      (no decimal digits)
+```
