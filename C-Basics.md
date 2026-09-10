@@ -50,7 +50,7 @@
 
 Precision controls how many digits appear after the decimal point, when printing from the the function 'printf'
 
-**Syntax:** `%.Nf` — where `N` is the number of decimal places to display.
+**Syntax:** `%.nf` — where `n` is the number of decimal places to display.
 
 **Examples:**
 ```
